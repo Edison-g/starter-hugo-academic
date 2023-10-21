@@ -67,20 +67,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: basketball
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Yoga
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: pray
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 75
+        icon: books
         icon_pack: fas
 
 # Social/Academic Networking
