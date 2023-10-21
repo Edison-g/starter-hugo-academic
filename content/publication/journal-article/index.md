@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "On the Design of Integrated Tele-Monitoring/Operation System for Therapeutic Devices in Isolation Intensive Care Unit"
 authors:
 - C. Song
 - G. Yang
@@ -23,7 +23,7 @@ publishDate: "2022-07-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Robotics and Automation Letters, 7*(4)"
+publication: "*IEEE Robotics and Automation Letters, 7* (4)"
 publication_short: ""
 
 abstract: We design a central controller system (CCS) and a tele-controlled system (TCS) with an aim of developing the integrated tele-monitoring/operation system that can enable the medical staff to tele-monitor the state of therapeutic devices utilized in the isolation intensive care unit (ICU) and to tele-operate its user interfaces. To achieve this aim, we survey the medical staff for medical requirements first and define the design guideline for tele-monitoring/operation functionality and field applicability. In designing the CCS, we focus on realizing the device having intuitive and user-friendly interfaces so that the medical staff can use the device conveniently without pre-training. Further, we attempt to implement the TCS capable of manipulating various types of user interfaces of the therapeutic device (e.g., touch screen, buttons, and knobs) without failure. As two core components of the TCS, the precision XY-positioner having a maximum positioning error of about 0.695 mm and the end-effector having three-degrees-of-freedom motion (i.e., pressing, gripping, and rotating) are applied to the system. In the experiment conducted for assessing functionality, it is investigated that the time taken to complete the tele-operation after logging into the CCS is less than 1 minute. Furthermore, the result of field demonstration for focus group shows that the proposed system could be applied practically to the medical fields when the functional reliability is improved.
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: uploads/RAL.pdf
+url_pdf: uploads/On the Design of Integrated Tele-Monitoring Operation System for Therapeutic Devices in Isolation Intensive Care Unit.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: uploads/RAL_preview.png
   focal_point: ""
   preview_only: false
 
@@ -69,12 +69,5 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
