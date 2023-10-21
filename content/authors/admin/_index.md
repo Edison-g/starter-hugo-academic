@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Chang Seob Song
+title: ChangSeob Song
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Chang Seob
+first_name: ChangSeob
 last_name: Song
 
 # Status emoji
@@ -80,7 +80,7 @@ skills:
       - name: Reading
         description: ''
         percent: 75
-        icon: books
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests include bio-inspired robotics, soft robotics, material robotics and physical intelligence. I am open to new hardware approaches that utilize unique morphologies and materials.
 {style="text-align: justify;"}
